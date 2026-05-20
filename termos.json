@@ -1,0 +1,485 @@
+[
+  {
+    "id": "mpebxqpr8ohkg4",
+    "termo": "IA (Inteligência Artificial)",
+    "definicao": "Campo da computação dedicado a fazer máquinas executarem tarefas que normalmente exigiriam inteligência humana, como entender linguagem, reconhecer imagens, tomar decisões ou aprender com experiência. Abrange desde sistemas simples baseados em regras até modelos modernos que processam bilhões de parâmetros.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprl3qk7o",
+    "termo": "Machine Learning (Aprendizado de Máquina)",
+    "definicao": "Subcampo da IA em que o sistema aprende padrões a partir de dados em vez de seguir regras explícitas escritas por um programador. O modelo melhora seu desempenho à medida que é exposto a mais exemplos. Está por trás de filtros de spam, recomendações de filme e detecção de fraude.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr057t5q",
+    "termo": "Deep Learning (Aprendizado Profundo)",
+    "definicao": "Tipo de Machine Learning que usa redes neurais com muitas camadas para reconhecer padrões complexos, especialmente em imagens, áudio e texto. Inspira-se vagamente no cérebro humano e é a base dos modelos modernos de IA, incluindo os LLMs.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprnooo1k",
+    "termo": "LLM (Large Language Model)",
+    "definicao": "Modelo de linguagem treinado com volumes massivos de texto para entender e gerar linguagem humana. Funciona prevendo a próxima palavra (token) com base no contexto. ChatGPT, Claude e Gemini são exemplos.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqproz7jmb",
+    "termo": "NLP (Processamento de Linguagem Natural)",
+    "definicao": "Área da IA dedicada a fazer computadores entenderem, interpretarem e produzirem linguagem humana. Inclui tarefas como traduzir idiomas, classificar sentimentos, responder perguntas e resumir textos.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprls6md6",
+    "termo": "Algoritmo",
+    "definicao": "Sequência finita e ordenada de instruções para resolver um problema ou executar uma tarefa. Uma receita de bolo é um algoritmo. Em IA, algoritmos definem como o modelo aprende com dados e como produz respostas.",
+    "categoria": "Programação",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprc1bpwi",
+    "termo": "IA Fraca (ANI)",
+    "definicao": "Artificial Narrow Intelligence. Sistemas de IA projetados para executar uma tarefa específica muito bem, mas que não conseguem operar fora desse domínio. Assistentes de voz, sistemas de recomendação e filtros de imagem são exemplos. Toda IA disponível hoje se enquadra nessa categoria.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpryfxnp0",
+    "termo": "AGI (Inteligência Artificial Geral)",
+    "definicao": "Artificial General Intelligence. Hipótese de IA com capacidade cognitiva igual ou superior à humana em qualquer domínio intelectual. Ainda não existe, é objetivo de pesquisa de longo prazo. Diferencia-se da IA Fraca porque transferiria aprendizado entre áreas como um humano faz.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqproigtje",
+    "termo": "ASI (Superinteligência Artificial)",
+    "definicao": "Artificial Superintelligence. Conceito teórico de IA que superaria a inteligência humana em todos os aspectos, incluindo criatividade científica, sabedoria prática e habilidades sociais. Permanece especulativo, debatido em filosofia, segurança de IA e ficção.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr2wkdb2",
+    "termo": "IA Generativa",
+    "definicao": "Categoria de modelos de IA voltados a criar conteúdo novo (texto, imagem, áudio, vídeo, código) a partir de padrões aprendidos no treinamento. ChatGPT, Midjourney e Suno são exemplos. Difere de IAs apenas classificatórias ou preditivas.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprujyxqh",
+    "termo": "Token",
+    "definicao": "Menor unidade de texto que um LLM processa. Pode ser uma palavra, parte de uma palavra ou um caractere. O custo de uso das APIs de modelos costuma ser cobrado por token consumido na entrada e na saída.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprd6mch9",
+    "termo": "Embedding",
+    "definicao": "Representação numérica (vetor) de uma palavra, frase, imagem ou documento que captura seu significado semântico. Itens com significado parecido ficam próximos no espaço vetorial. É a base técnica de busca semântica e RAG.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprcepdxm",
+    "termo": "Parâmetro",
+    "definicao": "Valor numérico interno do modelo, ajustado automaticamente durante o treinamento. Modelos modernos têm bilhões ou trilhões de parâmetros. Quanto mais parâmetros, em geral mais capaz e mais caro o modelo é.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpruyjdis",
+    "termo": "Hiperparâmetro",
+    "definicao": "Configuração definida antes do treinamento, que controla como o modelo aprende (taxa de aprendizado, tamanho de batch, número de camadas). Diferente dos parâmetros, não é aprendida a partir dos dados, é escolhida por quem treina.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprsshvqe",
+    "termo": "Temperatura",
+    "definicao": "Parâmetro que controla quão aleatória ou previsível é a resposta de um LLM. Temperatura baixa (perto de 0) gera respostas mais determinísticas e conservadoras. Temperatura alta produz respostas mais criativas e variadas.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprypqzrw",
+    "termo": "Prompt",
+    "definicao": "Instrução, pergunta ou comando que o usuário envia para um modelo de IA. A qualidade do prompt influencia diretamente a qualidade da resposta. Pode ser uma frase curta ou um texto longo com contexto e exemplos.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprm6fg7u",
+    "termo": "Engenharia de Prompt",
+    "definicao": "Prática de formular prompts eficazes para obter as melhores respostas de um modelo de IA. Envolve técnicas como dar exemplos, definir papel, estruturar instruções em etapas e usar formatação específica (XML, JSON, markdown).",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr5l60pm",
+    "termo": "Chain of Thought (Cadeia de Pensamento)",
+    "definicao": "Técnica de prompt que instrui o modelo a pensar passo a passo antes de dar a resposta final. Melhora significativamente o desempenho em tarefas de raciocínio, matemática e lógica.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprf0ien6",
+    "termo": "Janela de Contexto",
+    "definicao": "Quantidade máxima de texto (medida em tokens) que um modelo consegue considerar de uma vez em uma conversa. Modelos modernos típicos vão de 200 mil a 1 milhão de tokens. Determina quanto histórico e quantos documentos cabem na sessão.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprg2yfbq",
+    "termo": "Inferência",
+    "definicao": "Processo de usar um modelo já treinado para gerar uma resposta a partir de uma nova entrada. Diferente do treinamento, que ajusta os parâmetros. Toda vez que você manda um prompt, está rodando uma inferência.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpruzmq3q",
+    "termo": "Rede Neural Artificial",
+    "definicao": "Modelo computacional inspirado vagamente no cérebro, composto por camadas de unidades (neurônios artificiais) conectadas. Cada conexão tem um peso ajustado durante o treinamento. É a base do Deep Learning.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr096z6c",
+    "termo": "Transformer",
+    "definicao": "Arquitetura de rede neural introduzida em 2017 que usa um mecanismo chamado atenção para processar sequências de dados. É a base de praticamente todos os LLMs modernos, incluindo GPT, BERT e Claude.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprqn9dgc",
+    "termo": "GPT (Generative Pre-trained Transformer)",
+    "definicao": "Família de modelos da OpenAI baseada na arquitetura Transformer, treinada para gerar texto. O nome significa Transformer Generativo Pré-treinado. ChatGPT é a interface conversacional construída sobre modelos GPT.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprxt4erg",
+    "termo": "GAN (Generative Adversarial Network)",
+    "definicao": "Arquitetura em que duas redes neurais competem: uma gera conteúdo falso (gerador) e outra tenta distinguir falso de verdadeiro (discriminador). O processo refina ambas até gerar imagens, áudios ou vídeos muito realistas. Está por trás de muitos deepfakes.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr4rgfb2",
+    "termo": "Aprendizado Supervisionado",
+    "definicao": "Tipo de treinamento em que o modelo recebe pares de entrada e saída esperada (dados rotulados). Aprende a mapear entradas em saídas. Exemplo: fotos de gatos rotuladas como gato para treinar um classificador.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprjvsnkl",
+    "termo": "Aprendizado Não Supervisionado",
+    "definicao": "Treinamento sem rótulos. O modelo identifica padrões, agrupamentos ou estrutura nos dados por conta própria. Usado em segmentação de clientes, detecção de anomalias e redução de dimensionalidade.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprnrdsqo",
+    "termo": "Aprendizado por Reforço",
+    "definicao": "Paradigma em que um agente aprende interagindo com um ambiente, recebendo recompensas por boas decisões e punições por más. É como ensinar um animal por tentativa e erro. Foi usado no AlphaGo e no treinamento de LLMs via RLHF.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprchqche",
+    "termo": "RLHF (Reinforcement Learning from Human Feedback)",
+    "definicao": "Técnica de treinamento em que humanos avaliam respostas do modelo, e essas avaliações guiam o aprendizado por reforço. É a forma como ChatGPT, Claude e similares foram ajustados para serem mais úteis e seguros.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprjc33zf",
+    "termo": "Fine-tuning (Ajuste Fino)",
+    "definicao": "Processo de pegar um modelo já pré-treinado e refinar seu treinamento em um conjunto menor de dados específicos. Permite especializar o modelo em um domínio (jurídico, médico, atendimento) sem treinar do zero.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr3h2udz",
+    "termo": "Pré-treinamento",
+    "definicao": "Fase inicial em que o modelo aprende padrões gerais a partir de volumes massivos de dados, antes de ser adaptado a tarefas específicas. É a etapa mais cara em tempo e computação.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr7x7wug",
+    "termo": "Transferência de Aprendizado",
+    "definicao": "Transfer Learning. Reutilizar o que um modelo aprendeu em uma tarefa para acelerar o aprendizado em outra tarefa relacionada. Em vez de treinar do zero, parte-se de um modelo pronto e ajusta-se para o novo problema.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr3cb4av",
+    "termo": "Zero-shot e Few-shot Learning",
+    "definicao": "Capacidade do modelo de executar tarefas sem exemplos (zero-shot) ou com poucos exemplos (few-shot) no prompt. Modelos grandes generalizam bem para tarefas novas usando apenas a instrução em linguagem natural.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprbo7d4e",
+    "termo": "Alucinação",
+    "definicao": "Quando um modelo de IA produz informação falsa apresentada com total confiança, como inventar uma citação, criar uma referência inexistente ou afirmar fatos errados. Limitação conhecida de LLMs que exige verificação independente em contextos sensíveis.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprtfw2zm",
+    "termo": "Viés (Bias)",
+    "definicao": "Tendência sistemática que leva o modelo a produzir resultados injustos ou discriminatórios. Geralmente vem de desbalanceamento nos dados de treinamento. Importante de mitigar em aplicações de crédito, recrutamento e justiça.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprksuofk",
+    "termo": "Black Box (Caixa Preta)",
+    "definicao": "Modelo cujo processo interno de decisão é opaco mesmo para quem o criou. Você vê entrada e saída, mas não consegue rastrear claramente o porquê de cada resposta. Comum em redes neurais profundas.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr576coi",
+    "termo": "Overfitting (Sobreajuste)",
+    "definicao": "Quando o modelo memoriza os dados de treinamento em vez de aprender padrões gerais, performando mal em dados novos. Análogo a decorar respostas sem entender o conteúdo.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr7tghik",
+    "termo": "Underfitting (Subajuste)",
+    "definicao": "Quando o modelo é simples demais para capturar os padrões relevantes nos dados. Performa mal tanto no treino quanto em dados novos. Oposto de overfitting.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpriyi75k",
+    "termo": "Alignment (Alinhamento)",
+    "definicao": "Esforço de fazer com que sistemas de IA persigam objetivos compatíveis com valores e intenções humanas. Campo central em segurança de IA, especialmente em modelos cada vez mais capazes.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprghvlfv",
+    "termo": "Dataset",
+    "definicao": "Conjunto estruturado de dados usado para treinar, validar ou testar modelos de IA. Pode ser uma planilha, coleção de imagens, transcrições de áudio ou qualquer conjunto organizado de exemplos.",
+    "categoria": "Dados",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr2k2pyr",
+    "termo": "Big Data",
+    "definicao": "Conjuntos de dados tão grandes ou complexos que exigem ferramentas e técnicas específicas para serem armazenados e processados. Caracterizado por volume, velocidade, variedade e veracidade.",
+    "categoria": "Dados",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr9a5j9r",
+    "termo": "Dados Sintéticos",
+    "definicao": "Dados gerados artificialmente por algoritmos em vez de coletados do mundo real. Úteis quando dados reais são escassos, caros ou sensíveis (privacidade). Comuns em treinamento de visão computacional e simulação de cenários raros.",
+    "categoria": "Dados",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprdmv85i",
+    "termo": "Data Mining",
+    "definicao": "Processo de analisar grandes conjuntos de dados para descobrir padrões, correlações e anomalias que possam orientar decisões. Combina estatística, machine learning e bancos de dados.",
+    "categoria": "Dados",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprkakt8v",
+    "termo": "API (Application Programming Interface)",
+    "definicao": "Interface que permite que um software se comunique com outro de forma padronizada. APIs de IA permitem que aplicações enviem prompts e recebam respostas de modelos como Claude e GPT sem precisar treinar nada.",
+    "categoria": "Programação",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprz9k1r7",
+    "termo": "MCP (Model Context Protocol)",
+    "definicao": "Protocolo aberto criado pela Anthropic para padronizar como modelos de IA se conectam a fontes externas de dados e ferramentas. Funciona como um conector universal entre LLMs e sistemas (Google Drive, GitHub, bancos de dados, APIs).",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprz44x50",
+    "termo": "RAG (Retrieval-Augmented Generation)",
+    "definicao": "Técnica que combina busca em uma base de dados com geração por LLM. O modelo primeiro recupera trechos relevantes de documentos e depois gera a resposta baseada nesses trechos. Reduz alucinação e permite usar informação fora do treinamento.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr2nn67v",
+    "termo": "Vector Database (Banco de Dados Vetorial)",
+    "definicao": "Banco de dados otimizado para armazenar e buscar embeddings. Permite encontrar itens semanticamente similares mesmo que não compartilhem palavras idênticas. Pilar técnico do RAG. Exemplos: Pinecone, Weaviate, Qdrant.",
+    "categoria": "Dados",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprckl93q",
+    "termo": "Tool Use (Uso de Ferramentas)",
+    "definicao": "Capacidade de um LLM chamar funções externas durante a resposta (calculadora, busca na web, API de calendário, leitura de arquivo). Transforma o modelo de gerador de texto em agente capaz de executar ações.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr3mcpsz",
+    "termo": "Sandbox",
+    "definicao": "Ambiente isolado onde código ou aplicações rodam sem afetar o sistema principal. Usado para testar coisas com segurança, executar IA com restrições, ou rodar código não confiável.",
+    "categoria": "Programação",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr8nx9ug",
+    "termo": "IDE (Integrated Development Environment)",
+    "definicao": "Software que reúne editor de código, depurador, terminal e outras ferramentas para desenvolvimento. Exemplos comuns: Visual Studio Code, Cursor, PyCharm, IntelliJ.",
+    "categoria": "Programação",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr0or7t8",
+    "termo": "SDK (Software Development Kit)",
+    "definicao": "Conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de aplicações para uma plataforma específica. O SDK do Claude permite chamar a API com poucas linhas de código em Python ou TypeScript.",
+    "categoria": "Programação",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpryz3875",
+    "termo": "Agente de IA",
+    "definicao": "Sistema baseado em IA que percebe um ambiente, toma decisões e executa ações para atingir um objetivo, com algum grau de autonomia. Pode ler arquivos, chamar APIs, navegar na web, em vez de apenas gerar texto.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpretjotf",
+    "termo": "Agentic AI",
+    "definicao": "Categoria de sistemas de IA que operam com iniciativa própria, encadeando ações para cumprir objetivos complexos. Vai além de responder a prompts isolados: planeja, executa, valida e ajusta.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprzvsty5",
+    "termo": "HITL (Human-in-the-Loop)",
+    "definicao": "Abordagem em que humanos participam ativamente do ciclo de treinamento, validação ou operação de um sistema de IA. Garante supervisão em decisões sensíveis e ajuda a melhorar o modelo com feedback humano.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprmowyr2",
+    "termo": "GPU (Graphics Processing Unit)",
+    "definicao": "Processador originalmente criado para gráficos que se tornou essencial para IA, por ser eficiente em cálculos paralelos. Treinamento de LLMs grandes usa milhares de GPUs simultaneamente. NVIDIA domina o mercado atual.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpryz7e59",
+    "termo": "NPU (Neural Processing Unit)",
+    "definicao": "Processador dedicado a tarefas de IA, presente em smartphones e PCs modernos. Mais eficiente em consumo de energia do que GPUs para inferência local de modelos pequenos.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprp2kzbc",
+    "termo": "TPU (Tensor Processing Unit)",
+    "definicao": "Chip especializado em IA desenvolvido pelo Google, otimizado para operações tensoriais usadas em deep learning. Usado nos data centers do Google para treinar e servir modelos como Gemini.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprczlmbm",
+    "termo": "Visão Computacional",
+    "definicao": "Área da IA que permite computadores interpretarem imagens e vídeos. Inclui reconhecimento de objetos, leitura de texto em imagens (OCR), análise facial e detecção de movimento.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprtyr235",
+    "termo": "Deepfake",
+    "definicao": "Mídia sintética (vídeo, áudio, imagem) gerada por IA que imita pessoas reais de forma realista. Tem usos legítimos em cinema e dublagem, mas levanta sérias preocupações por uso em desinformação e fraude.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprfpunau",
+    "termo": "CSV (.csv)",
+    "definicao": "Comma-Separated Values. Formato de arquivo de texto simples para armazenar dados tabulares, onde cada linha é uma linha da tabela e os valores são separados por vírgulas. Universal entre planilhas e bancos de dados.",
+    "categoria": "Formato de arquivo",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpro87ryk",
+    "termo": "Markdown (.md)",
+    "definicao": "Linguagem de marcação leve para escrever texto formatado usando símbolos simples. Asterisco vira negrito, sustenido vira título. Padrão em README do GitHub, documentação técnica e ferramentas como Obsidian e Notion.",
+    "categoria": "Formato de arquivo",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprjl3hbe",
+    "termo": "JSON (.json)",
+    "definicao": "JavaScript Object Notation. Formato leve de troca de dados, baseado em pares chave-valor e listas. Legível por humanos e fácil de processar por máquinas. Padrão de fato para APIs web.",
+    "categoria": "Formato de arquivo",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprnkh9qw",
+    "termo": "YAML (.yaml)",
+    "definicao": "YAML Ain't Markup Language. Formato de serialização legível por humanos, usado para arquivos de configuração de software, pipelines de CI/CD e definições de containers Docker e Kubernetes.",
+    "categoria": "Formato de arquivo",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr7njt77",
+    "termo": "CEO (Chief Executive Officer)",
+    "definicao": "Diretor executivo principal de uma empresa, responsável pelas decisões estratégicas e pela liderança geral. Reporta-se ao conselho de administração e tipicamente representa a empresa publicamente.",
+    "categoria": "Negócios",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprsvstkt",
+    "termo": "CFO (Chief Financial Officer)",
+    "definicao": "Diretor financeiro principal, responsável por planejamento financeiro, relatórios contábeis, gestão de risco e relações com investidores. Trabalha de perto com o CEO em decisões de investimento e captação.",
+    "categoria": "Negócios",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr3gvo97",
+    "termo": "CTO (Chief Technology Officer)",
+    "definicao": "Diretor de tecnologia, responsável pela estratégia técnica da empresa, escolha de arquiteturas, plataformas e direção de inovação. Comum em empresas de tecnologia e startups.",
+    "categoria": "Negócios",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr1h43fu",
+    "termo": "Claude.ai",
+    "definicao": "Interface web e mobile da Anthropic onde usuários interagem com Claude. Inclui Projects, Artifacts, busca na web, análise de arquivos e demais funcionalidades de consumidor.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqprl9hv93",
+    "termo": "Claude Code",
+    "definicao": "Ferramenta de linha de comando (CLI) da Anthropic que permite Claude operar diretamente no disco do usuário: criar, ler e editar arquivos, executar comandos, integrar com Git. Voltada a programação assistida e automação.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpebxqpr4dxqk9",
+    "termo": "Artifacts",
+    "definicao": "Conteúdo interativo (componentes React, HTML, SVG, código, diagramas) gerado por Claude e renderizado em painel separado dentro do Claude.ai. Permite construir mini-aplicações dentro da conversa, como este próprio dicionário.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:22:25.023Z"
+  },
+  {
+    "id": "mpecoygletj4og",
+    "termo": "Token Economy",
+    "definicao": "Sistema em que unidades digitais chamadas tokens funcionam como moeda de troca dentro de um ecossistema específico — plataformas de IA, blockchains ou aplicações descentralizadas. Os participantes ganham, gastam ou trocam esses tokens para acessar serviços, recompensar contribuições ou governar o próprio sistema. A lógica é criar incentivos alinhados entre os usuários e a plataforma, substituindo relações puramente comerciais por uma economia de participação.",
+    "categoria": "Tech/AI",
+    "createdAt": "2026-05-20T17:43:34.773Z"
+  }
+]
